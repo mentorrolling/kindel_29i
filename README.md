@@ -9,3 +9,5 @@ Las tecnologías utilizadas son:
 - Flexbox
 - Bootstrap 5
 - Javascript
+
+- Derechos reservados @RollingCode

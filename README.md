@@ -1,6 +1,6 @@
 # Kindel
 
-Este proyecto tiene como finalidad mostrar lo aprendido en el curso de Fullstack en el módulo 1.
+Proyecto genial donde ofrecemos un pequeño robot hogareño.
 
 Las tecnologías utilizadas son:
 

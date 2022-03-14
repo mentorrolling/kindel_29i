@@ -1,6 +1,6 @@
 # Kindel
 
-Este proyecto tiene como finalidad mostrar lo aprendido en el curso de Fullstack en el módulo 1.
+Primer proyecto de Comisión 29i!
 
 Las tecnologías utilizadas son:
 

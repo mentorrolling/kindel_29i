@@ -10,4 +10,4 @@ Las tecnologías utilizadas son:
 - Bootstrap 5
 - Javascript
 
-- Derechos reservados @RollingCode
+

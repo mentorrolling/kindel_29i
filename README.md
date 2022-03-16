@@ -1,6 +1,6 @@
 # Kindel
 
-Primer proyecto de Comisión 29i!
+Primer proyecto del módulo 1 del curso Fullstack.
 
 Las tecnologías utilizadas son:
 

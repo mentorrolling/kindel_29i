@@ -1,6 +1,6 @@
 # Kindel
 
-Primer proyecto de Comisión 29i!
+Proyecto re copado de Kindel, un robot hogareño.
 
 Las tecnologías utilizadas son:
 

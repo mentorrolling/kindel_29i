@@ -1,8 +1,6 @@
 # Kindel
 
-
 Primer proyecto de Comisión 29i!
-
 
 Las tecnologías utilizadas son:
 

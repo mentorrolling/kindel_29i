@@ -1,6 +1,8 @@
 # Kindel
 
-Proyecto genial donde ofrecemos un pequeño robot hogareño.
+
+Primer proyecto de Comisión 29i!
+
 
 Las tecnologías utilizadas son:
 

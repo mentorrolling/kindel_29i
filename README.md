@@ -1,6 +1,6 @@
 # Kindel
 
-Proyecto re copado de Kindel, un robot hogareño.
+Primer proyecto del módulo 1 del curso Fullstack.
 
 Las tecnologías utilizadas son:
 
